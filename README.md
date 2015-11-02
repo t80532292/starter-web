@@ -23,6 +23,7 @@ file system.
 
 ## How To Contribute
 
+Please for this repository and issue Pull Requests for review
 
 ### Copyright
 
