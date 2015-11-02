@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Dennis Yip  t80532292@hotmail.com t80
     <name> -- <role> -- <twitter>
 
 # THANKS
