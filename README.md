@@ -28,4 +28,4 @@ Please for this repository and issue Pull Requests for review
 
 ### Copyright
 
-2015 Git.training
+2015 Git.training. All rights reserved.
