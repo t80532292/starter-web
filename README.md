@@ -1,8 +1,8 @@
 # Starter Web Project
 
 This is a simple website project
-showing how to use Git and Github together. Adding a line for rebasing purpose, then
-more changes from myfature change too.
+showing how to use Git and Github together. 
+Updating for emergency fix after stashing.
 
 ## Introduction
 
